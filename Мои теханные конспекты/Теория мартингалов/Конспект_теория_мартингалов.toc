@@ -1,0 +1,31 @@
+\babel@toc {russian}{}\relax 
+\contentsline {part}{I\hspace {1em}Мартингалы с дискретным временем}{3}{part.1}%
+\contentsline {section}{\numberline {1}Напоминание про УМО}{3}{section.1}%
+\contentsline {section}{\numberline {2}Основные определения}{4}{section.2}%
+\contentsline {section}{\numberline {3}Разложение Дуба}{6}{section.3}%
+\contentsline {section}{\numberline {4}Моменты остановки}{8}{section.4}%
+\contentsline {section}{\numberline {5}Сходимость п.н.}{11}{section.5}%
+\contentsline {section}{\numberline {6}Максимальные неравенства}{14}{section.6}%
+\contentsline {section}{\numberline {7}$L^p$ сходимость при $p>1$}{16}{section.7}%
+\contentsline {section}{\numberline {8}Сходимость в $L^1$}{18}{section.8}%
+\contentsline {section}{\numberline {9}Приложения}{22}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Закон 0-1 Колмогорова}{22}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Аппроксимация случайных величин}{22}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Абсолютно непрерывные функции}{23}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Система Хаара}{25}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Абстрактная система Хаара}{26}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Сходимость рядов из независимых случайных величин}{26}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Обратные мартингалы}{27}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}Усиленный закон Больших чисел}{28}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Перестановочные случайные величины}{29}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}Теорема Радона-Никодима}{32}{subsection.9.10}%
+\contentsline {subsection}{\numberline {9.11}Направленные частично упорядоченные множества}{34}{subsection.9.11}%
+\contentsline {subsection}{\numberline {9.12}Замена времени (Optional stopping theorem)}{35}{subsection.9.12}%
+\contentsline {subsection}{\numberline {9.13}Тождества Вальда}{37}{subsection.9.13}%
+\contentsline {subsection}{\numberline {9.14}Приложение к случайному блужданию}{38}{subsection.9.14}%
+\contentsline {part}{II\hspace {1em}Мартингалы с непрерывным временем}{39}{part.2}%
+\contentsline {section}{\numberline {10}Основные неравенства}{39}{section.10}%
+\contentsline {section}{\numberline {11}Свойства траекторий}{40}{section.11}%
+\contentsline {section}{\numberline {12}Замена времени}{41}{section.12}%
+\contentsline {section}{\numberline {13}Что-то про случайные процессы}{43}{section.13}%
+\contentsline {part}{III\hspace {1em}Упражнения и их решения}{45}{part.3}%
