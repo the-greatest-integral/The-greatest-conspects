@@ -1,0 +1,39 @@
+\documentclass[12pt,a4paper]{article} %12 кегль, формат бумаги А4, тип статья
+
+\usepackage[T2A]{fontenc} %поддержка кириллицы
+\usepackage[utf8]{inputenc} %кодировка символов юникод
+\usepackage[english,russian]{babel} %список рабочих языков
+\usepackage{cmap} %для поиска в pdf
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry} %размеры отступов от краев страницы
+\usepackage{graphicx} %возможность работать с графикой
+\usepackage{enumitem} %для работы со списками
+\usepackage{float} %для точного размещения таблиц и графики
+\usepackage{caption} %для создания подписей таблиц и графики
+\usepackage{amsmath,amssymb,amsthm,amsfonts} %штуки для математики
+\usepackage{extarrows} %чтобы подписи над и под нестандартными стрелками писать короче в коде
+\usepackage{makeidx} %собирает ключевые слова для предметного указателя
+\usepackage[hidelinks]{hyperref} %убирает выделение ссылок; добавляет гиперссылки в оглавление, перекрестные ссылки и URL
+\usepackage{setspace} %устанавливает отступы
+\linespread{1.5} %длина межстрочного интервала
+\vspace{125mm} %длина абзацного отступа
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries\centering}{}{0pt}{} % эти две строчки убирают циферки перед названиями разделов в основном тексте и выравнивают названия секций по центру
+\usepackage{paratype} %чтобы точно был поиск и шрифт хороший
+
+\author{Автор конспекта: Краснов Борис} %автор
+\title{Белов Ю.С.: Целые функции} %название
+\date{Весна 2026} %дата создания документа
+
+\newtheorem{theorem}{Теорема}
+\newtheorem{lemma}{Лемма}
+\newtheorem{definition}{Определение}
+\newtheorem{proposition}{Предложение}
+\newtheorem{consequence}{Следствие}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Co}{\mathbb{C}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\PR}{\mathbb{P}}
+\newcommand{\charf}[2][t]{\varphi_{#2}(#1)}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\M}{\mathfrak{M}}
