@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Основные обозначения и определения}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Классическая теория (1920-1940)}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Граничные значения}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Множество нулей}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Факторизация}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Эра Карлесона}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Востановление гармонических функций по граничным значениям}{4}{section.2}%
